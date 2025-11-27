@@ -28,7 +28,7 @@ Main domain types:
 
 UML:
 
-- Diagram file: `uml/gym-system.pdf` (uploaded in this repository and used in the report/screencast).
+- Diagram file: `uml/gym-system.pdf` (uploaded in this repository).
 
 ## Java Language Features Demonstrated
 
